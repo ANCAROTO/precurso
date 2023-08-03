@@ -1,2 +1,1 @@
-# precurso
-repositorio de prueba curso
+este poroyecto es una prueba de como crear un repositorio y clonarlo desde git hash y clonarlo hasta mi escritorio local
